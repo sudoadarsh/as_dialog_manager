@@ -32,7 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   as_dialog_manager:
-    path: "/Users/adarsh/StudioProjects/as_dialog_manager"
+    path: "/Users/adarsh/StudioProjects/as_dialog_manager_main"
 
 
   # The following adds the Cupertino Icons font to your application.
